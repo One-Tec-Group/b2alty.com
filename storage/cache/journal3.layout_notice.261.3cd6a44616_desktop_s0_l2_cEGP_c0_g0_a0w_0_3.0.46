@@ -1,0 +1,52 @@
+<?php $val = array (
+  'css' => '.module-layout_notice-261 .hn-close::before{content:\'\\e5cd\' !important;font-family:icomoon !important;color:rgba(250, 255, 251, 0.5)}.module-layout_notice-261 .hn-close.btn, .module-layout_notice-261 .hn-close.btn:visited{text-transform:none}.module-layout_notice-261 .hn-close.btn:hover{color:rgba(250, 255, 251, 0.5) !important;background:none !important}.module-layout_notice-261 .hn-close.btn{background:none;border-style:none;padding:3px;box-shadow:none}.module-layout_notice-261 .hn-close.btn:active, .module-layout_notice-261 .hn-close.btn:hover:active, .module-layout_notice-261 .hn-close.btn:focus:active{background:none !important}.module-layout_notice-261 .hn-close.btn:focus{background:none}.module-layout_notice-261 .hn-close.btn.btn.disabled::after{font-size:20px}.module-layout_notice-261 .hn-close{margin-left:20px}.module-layout_notice-261 .module-body
+p{margin-bottom:0px}.module-layout_notice-261 .layout-notice-close-button{position:relative;top:auto;right:auto;bottom:auto;left:auto;transform:none}.module-layout_notice-261 .module-body{flex-direction:row;background:rgba(196, 202, 253, 1);padding:10px}.module-layout_notice-261 .hn-content{text-align:center}.module-layout_notice-261 .hn-body::before{float:left;margin-right:7px}.module-layout_notice-261 .hn-body{display:block}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '246700c5',
+    'closeButton' => true,
+    'closeLink' => 
+    array (
+      'type' => NULL,
+      'id' => NULL,
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'closeText' => 'Close',
+    'content' => '<p><b>Upsell opportunity!</b> Optionally display Related or Also Bought products based on those already in the cart. Remove or repurpose this Layout Notice module from the Checkout layout.&nbsp;</p>',
+    'status' => true,
+    'id' => 'layout_notice-5f3cf33e00b2d',
+    'module_id' => 261,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-layout_notice',
+      2 => 'module-layout_notice-261',
+    ),
+    'options' => 
+    array (
+      'cookie' => '246700c5',
+      'ease' => 'easeOutQuart',
+      'duration' => '600',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

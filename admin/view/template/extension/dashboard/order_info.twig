@@ -1,0 +1,31 @@
+<div class="card card-sm">
+
+  <div class="card-body">
+
+    <div class="d-flex justify-content-between mb-5">
+                          <div>
+                            <span class="d-block font-15 text-dark font-weight-500">{{ heading_title }}</span>
+                          </div>
+                          <div>
+                            <span class=" badge badge-primary  badge-sm">
+
+                             {% if percentage > 0 %}
+                             <i class="fa fa-caret-up"></i>
+                             {% elseif percentage < 0 %}
+                             <i class="fa fa-caret-down"></i>
+                             {% endif %}
+                             {{ percentage }}%</span>
+
+    </div>
+     </div>
+
+     <div>
+     <span class="d-block display-5 text-dark mb-5">{{ total }}</span>
+     <div class="tile-footer"><a href="{{ order }}">{{ text_view }}</a></div>
+     </div>
+
+
+
+  </div>
+
+</div>

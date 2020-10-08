@@ -1,0 +1,30 @@
+<?php $val = array (
+  'css' => '.module-blog_comments-47
+img{margin-right:7px;border-radius:50%}.module-blog_comments-47 .module-item{padding-top:8px;margin-bottom:8px}.module-blog_comments-47 .side-subtitle{color:rgba(109, 118, 125, 1)}.module-blog_comments-47 .side-title{color:rgba(39, 175, 75, 1);line-height:1.2}.module-blog_comments-47 .module-body>div+div{border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-blog_comments-47 .side-details{white-space:normal;overflow:visible;text-overflow:initial}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Latest Comments',
+    'imageSize' => '40',
+    'status' => true,
+    'id' => 'blog_comments-5f4108eb04ac3',
+    'module_id' => 47,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blog_comments',
+      2 => 'module-blog_comments-47',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

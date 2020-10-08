@@ -1,0 +1,73 @@
+<?php $val = array (
+  'data' => 
+  array (
+    278 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'bottom',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => NULL,
+    ),
+    58 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'image',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '#content .product-blocks-58{margin-bottom:20px}',
+    ),
+    247 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'top',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '#content .product-blocks-247{padding-bottom:15px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}',
+    ),
+  ),
+  'all' => 
+  array (
+    278 => 278,
+    58 => 58,
+  ),
+  'special' => 
+  array (
+  ),
+  'outofstock' => 
+  array (
+  ),
+  'custom' => 
+  array (
+  ),
+);

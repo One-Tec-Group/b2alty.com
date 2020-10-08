@@ -1,0 +1,43 @@
+<?php $val = array (
+  'css' => '.module-blog_search-44 .btn, .module-blog_search-44 .btn:visited{font-family:\'Open Sans\';font-weight:700;font-size:13px;color:rgba(255, 255, 255, 1);font-style:normal;text-align:center;text-transform:uppercase}.module-blog_search-44 .btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(39, 175, 75, 1) !important}.module-blog_search-44 .btn:active, .module-blog_search-44 .btn:hover:active, .module-blog_search-44 .btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(34, 184, 155, 1) !important}.module-blog_search-44 .btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-blog_search-44
+.btn{background:rgba(39, 175, 75, 1);padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px;border-radius:4px !important}.module-blog_search-44 .btn.btn.disabled::after{font-size:16px}.module-blog_search-44 .search-btn{height:calc(100% - 6px)}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Open Sans' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'placeholder' => 'Blog Search',
+    'status' => true,
+    'id' => 'blog_search-5f4108eae621f',
+    'module_id' => 44,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blog_search',
+      2 => 'module-blog_search-44',
+    ),
+    'search' => NULL,
+    'url' => 'http://b2alty.com/index.php?route=journal3/blog&amp;journal_blog_search=',
+    'items' => 
+    array (
+    ),
+  ),
+);

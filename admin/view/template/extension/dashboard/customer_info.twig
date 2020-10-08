@@ -1,0 +1,46 @@
+<!-- <div class="tile tile-primary">
+  <div class="tile-heading">{{ heading_title }} <span class="pull-right">
+    {% if percentage > 0 %}
+    <i class="fa fa-caret-up"></i>
+    {% elseif percentage < 0 %}
+    <i class="fa fa-caret-down"></i>
+    {% endif %}
+    {{ percentage }}%</span></div>
+  <div class="tile-body"><i class="fa fa-user"></i>
+    <h2 class="pull-right">{{ total }}</h2>
+  </div>
+  <div class="tile-footer"><a href="{{ customer }}">{{ text_view }}</a></div>
+</div> -->
+
+
+<div class="card card-sm">
+
+  <div class="card-body">
+
+    <div class="d-flex justify-content-between mb-5">
+                          <div>
+                            <span class="d-block font-15 text-dark font-weight-500">{{ heading_title }}</span>
+                          </div>
+                          <div>
+                            <span class=" badge badge-primary  badge-sm">
+
+                             {% if percentage > 0 %}
+                             <i class="fa fa-caret-up"></i>
+                             {% elseif percentage < 0 %}
+                             <i class="fa fa-caret-down"></i>
+                             {% endif %}
+                             {{ percentage }}%</span>
+
+    </div>
+     </div>
+
+     <div>
+     <span class="d-block display-5 text-dark mb-5">{{ total }}</span>
+     <div class="tile-footer"><a href="{{ order }}">{{ text_view }}</a></div>
+     </div>
+
+
+
+  </div>
+
+</div>

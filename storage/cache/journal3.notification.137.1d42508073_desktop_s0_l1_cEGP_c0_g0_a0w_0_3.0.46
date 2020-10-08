@@ -1,0 +1,51 @@
+<?php $val = array (
+  'css' => '.module-notification-137{color:rgba(247, 247, 250, 1);padding:20px;padding-top:15px;padding-bottom:15px;background:rgba(0, 0, 0, 0.8)}.module-notification-137
+a{text-decoration:underline}.module-notification-137 .notification-close{display:flex;margin-left:10px;margin-right:10px;margin-top:10px;margin-bottom:10px;top:0;bottom:initial;left:initial;right:0;transform:none}.module-notification-137 .notification-close.btn, .module-notification-137 .notification-close.btn:visited{font-family:\'Open Sans\';font-weight:400}.module-notification-137 .notification-close.btn{background:rgba(36, 36, 36, 1);padding-top:12px;padding-bottom:12px;border-radius:4px !important}.module-notification-137 .notification-close.btn.btn.disabled::after{font-size:30px;color:rgba(255, 255, 255, 1)}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Open Sans' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '52052aac',
+    'closeButton' => true,
+    'title' => 'Notification Module',
+    'text' => 'This is the sticky Notification module. You can use it for any sticky messages such as cookie notices or special promotions, etc.',
+    'notificationCloseText' => '',
+    'status' => true,
+    'id' => 'notification-5f43fc18619f6',
+    'module_id' => 137,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-notification',
+      2 => 'module-notification-137',
+      3 => 'notification',
+    ),
+    'options' => 
+    array (
+      'position' => NULL,
+      'title' => 'Notification Module',
+      'cookie' => '52052aac',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

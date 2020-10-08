@@ -1,0 +1,32 @@
+<?php $val = array (
+  'css' => '.module-blog_categories-42 .module-body{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-blog_categories-42
+a{padding:7px;padding-left:0px}.module-blog_categories-42 a
+span{color:rgba(109, 118, 125, 1)}.module-blog_categories-42 a:hover
+span{color:rgba(250, 255, 251, 0.5)}.module-blog_categories-42 a::before{content:\'\\e93f\' !important;font-family:icomoon !important;margin-right:4px}.module-blog_categories-42 a+a{border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-blog_categories-42
+span{white-space:normal;overflow:visible;text-overflow:initial}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Blog Categories',
+    'status' => true,
+    'id' => 'blog_categories-5f4108eaed71d',
+    'module_id' => 42,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blog_categories',
+      2 => 'module-blog_categories-42',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);
